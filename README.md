@@ -50,7 +50,8 @@ inlined pefmatters.js
 
 Pizza.html
 inlined the css/style.css
-edited images
+edited images pizzeria.jpg from 2028 to 205x104
+
 
 Contact Informaion:
 info@localfirstseo.com
