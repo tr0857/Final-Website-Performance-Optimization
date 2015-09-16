@@ -5,6 +5,8 @@ General Inforamtion:
 This project is for optimizing cameron Pittman Portfolio to ensure the wesite loads above 90% on the desktop and mobile. Refernce for speed is PageSpeedInsight
 https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fcameronwp.github.io%2Fudportfolio%2F&tab=mobile
 
+Create a directory on your local PC. Export the files to the newly created directory. Browse to this new directory you created. Open up the directory and look for index.html. right click and open with your favor browser. I perfer to us Chrome.
+
 Changes Made
 Reduced images in project
 Added my google analytics to everypage for tracing and moved to below the footer
